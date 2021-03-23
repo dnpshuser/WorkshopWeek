@@ -1,0 +1,7 @@
+https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/monk-and-otakuland-1/     [lazy propagation]
+
+
+
+solve 10-15 problems to get familiarize with segment tree and it's applications
+
+https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/

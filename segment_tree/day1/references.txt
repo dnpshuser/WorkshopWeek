@@ -1,0 +1,8 @@
+
+Hackerearth-- https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/tutorial/
+
+Cp-Algorithms-- https://cp-algorithms.com/data_structures/segment_tree.html
+
+
+Anshaj Code snippet--
+https://github.com/anshajsharma/cp-nitjsr/blob/main/topics/AdvancedDS.md#segment-tree
